@@ -1,0 +1,18 @@
+.nav{
+    display: flex;
+}
+.div{
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+.active{
+    color: #ea4242;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #3f3d3d;
+    text-decoration: none;
+}
